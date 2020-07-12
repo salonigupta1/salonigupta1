@@ -5,7 +5,7 @@
 <p>
   <em>
     I am a first year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Hussain College of Engineering And Technology</b>, Aligarh</a>. <br>
-    Girl who loves to <b>code</b> <img src="https://github.com/salonigupta1/salonigupta1/master/Assets/Developer.gif" width="30px"> and <b>App Developer</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/designer.gif" width="36px"><br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Medal.gif" width="20px">
+    Girl who loves to <b>code</b> <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/girl.gif" width="15px" height="20px"> and <b>App Developer</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/designer.gif" width="36px"><br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
