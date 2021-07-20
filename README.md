@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I am a second year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a>. <br>
+    I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a>. <br>
     Girl who loves to <b>code</b> <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/girl.gif" width="15px" height="20px"> <b>Software Developer</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/designer.gif" width="36px"><br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
