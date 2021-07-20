@@ -9,13 +9,16 @@
   </em>  
 </p>
 
+---
 
-<br>
+📈 My Github Stats:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salonigupta1&theme=radical) 
 
-![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=salonigupta1&show_icons=true&hide_border=true)
+![Saloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=salonigupta1&count_private=true&theme=radical)
 
-<br>
+---
+
 
   <a href="https://www.linkedin.com/in/saloni-gupta-902642198/">
     <img align="left" alt="Saloni Gupta | Linkedin" width="24px" src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Linkedin.svg" />
