@@ -1,6 +1,6 @@
 # Saloni Gupta&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/girly.gif" width="30px" height="35px">
 
-### <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/bird.gif" width="24px">
+### <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"> Hello world!
 
 <p>
   <em>
