@@ -57,6 +57,7 @@
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 
 
+[![Saloni's github activity graph](https://activity-graph.herokuapp.com/graph?username=salonigupta1&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/salonigupta1)
 
 
 
