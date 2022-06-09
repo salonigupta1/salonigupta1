@@ -1,11 +1,11 @@
 # Saloni Gupta&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/girly.gif" width="30px" height="35px">
 
-### <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"> Hello world!
+### <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"  height="35px"> Hello world!
 
 <p>
   <em>
     I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a>. <br>
-    Ask me about ML/AI, Application Development and Cloud Computing <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/designer.gif" width="36px"><br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Medal.gif" width="20px">
+    Ask me about ML/AI, Application Development and Cloud Computing <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/designer.gif" width="36px"  height="35px"><br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Medal.gif" width="20px"  height="35px">
   </em>  
 </p>
 
