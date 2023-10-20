@@ -63,11 +63,5 @@
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 
 
-[![Saloni's github activity graph](https://activity-graph.herokuapp.com/graph?username=salonigupta1&theme=radical&bg_color=pinka&hide_border=true&area=true)](https://git.io/salonigupta1)
-
-
-
-
-
 #### ✨ [Skyline View](https://skyline.github.com/salonigupta1/2021)
 
